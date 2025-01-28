@@ -1,4 +1,4 @@
-# CS061 - Programming Assignment 1
+# CS061 - Online Developement Environment
 
 ## Running LC3Tools in a GitHub Codespace
 
