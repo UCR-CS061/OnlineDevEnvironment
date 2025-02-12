@@ -1,12 +1,14 @@
 # CS061 - Online Developement Environment
 
+## Logging in or creating an account
+
 ## Running LC3Tools in a GitHub Codespace
 
 This GitHub repository has all the configuration necessary to run as a Codespace on GitHub. Any free GitHub user can start a codespace and run this simulation entirely in a browser. Free GitHub accounts come with upto 120 hours of free Codespace usage per month.
 
 To start the codespace, on this GitHub page click on Code -> Codespaces -> "Create Codespace on main". This action will start the set up of the codespace. This process can take anywhere from 5 to 10 minutes.
 
-Once it is complete, you will be in Visual Studio Code in your browser. To run LC3Tools, you will need to open a VNC tab. At bottom of the Visual Studio Code window you may see several tabs including Problems, Output, Terminal, and Ports. If you do not see these tabs go to View -> New Terminal, and you should see the tabs. Click on the Ports tab. Find the port 6080 and hover over it in the column "Local Address". You should then see a globe icon, and eventually the tool tip "Open in Browser". Click on this icon, which will launch a new tab in your browser. This opens the NoVNC tab, press the "Connect" button. 
+Once it is complete, you will be in Visual Studio Code in your browser. To run LC3Tools, you will need to open a VNC tab. At bottom of the Visual Studio Code window you may see several tabs including Problems, Output, Terminal, and Ports. If you do not see these tabs go to View -> New Terminal, and you should see the tabs. Click on the Ports tab. Find the port 6080 and hover over it in the column "Forwarded Address". You should then see a globe icon, and eventually the tool tip "Open in Browser". Click on this icon, which will launch a new tab in your browser. This opens the NoVNC tab, press the "Connect" button. 
 
 ![](./assets/CS061-DevEnv-OpenNoVNC.png)
 
