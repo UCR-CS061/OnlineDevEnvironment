@@ -1,6 +1,9 @@
 # CS061 - Online Developement Environment
 
 ## Logging in or creating an account
+In order to use this development environment, you will need a GitHub account. If you already have one, then sign in before following the directions below.
+
+If you do not already have a GitHub account, then go to https://github.com and click on "Create Account". Once you've completed this process, sign in, and then follow the directions below.
 
 ## Running LC3Tools in a GitHub Codespace
 
